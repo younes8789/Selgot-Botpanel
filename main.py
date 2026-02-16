@@ -69,4 +69,5 @@ async def panel(ctx):
     
     await ctx.send(embed=embed, view=TicketView())
 
-bot.run('MTQ3Mjc1NDk4MjE2MzA1NDcyNQ.Gg98e3.g8wvsYu4Fa20kTWKFAmK_Edv1Wxib88rGN5VTQ')
+
+bot.run('MTQ3Mjc1NDk4MjE2MzA1NDcyNQ.G5Xxco.3dw8yED9_yDrKaZtbQ8vFYH7tka2FqcmocXWMg')
